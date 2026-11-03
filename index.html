@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cricket Argentina | Sitio oficial</title>
+  <meta name="description" content="Sitio oficial de Cricket Argentina: fixture de la liga local, resultados, selecciones nacionales, Norte y Sur, desarrollo y noticias del cricket argentino.">
+  <meta name="theme-color" content="#0b1d3f">
+  <meta property="og:title" content="Cricket Argentina | Sitio oficial">
+  <meta property="og:description" content="Fixture, resultados, selecciones y noticias del cricket argentino.">
+  <meta property="og:image" content="img/news/flamingos-mexico.webp">
+  <link rel="icon" href="img/brand/logo.webp">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;1,700;1,800&family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="css/styles.css?v=1">
+</head>
+<body>
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+
+  <!-- Barra institucional -->
+  <div class="topbar">
+    <div class="wrap topbar-in">
+      <div class="topbar-orgs">
+        <a href="https://www.icc-cricket.com/" target="_blank" rel="noopener" aria-label="International Cricket Council"><img src="img/brand/icc.png" alt="ICC" width="96" height="50"></a>
+        <span class="topbar-note">Miembro Asociado de la ICC desde 1974</span>
+        <a href="https://www.coarg.org.ar/" target="_blank" rel="noopener" aria-label="Comité Olímpico Argentino"><img src="img/brand/coa.png" alt="COA" width="16" height="25"></a>
+        <a href="https://www.argentina.gob.ar/antidopaje" target="_blank" rel="noopener" aria-label="Comisión Nacional Antidopaje"><img src="img/brand/cnad.png" alt="CNAD" width="43" height="25"></a>
+      </div>
+      <div class="topbar-links">
+        <a href="https://www.instagram.com/cricket.argentina/" target="_blank" rel="noopener" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/cricketarg" target="_blank" rel="noopener" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://twitter.com/Cricketarg" target="_blank" rel="noopener" aria-label="X"><i class="bi bi-twitter-x"></i></a>
+        <a class="topbar-account" href="https://www.cricketargentina.com/enter/sign-in"><i class="bi bi-person-circle"></i> Mi cuenta</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Encabezado -->
+  <header class="header" data-header>
+    <div class="wrap header-in">
+      <a class="brand" href="#" aria-label="Cricket Argentina, inicio">
+        <img src="img/brand/logo.webp" alt="" width="44" height="48">
+        <span class="brand-text"><strong>Cricket</strong> Argentina</span>
+      </a>
+      <nav class="nav" id="nav" aria-label="Principal">
+        <a href="#partidos">Partidos</a>
+        <a href="#selecciones">Selecciones</a>
+        <a href="#liga">Liga local</a>
+        <a href="#norte-y-sur">Norte y Sur</a>
+        <a href="#desarrollo">Desarrollo</a>
+        <a href="#medios">Medios</a>
+        <a href="#institucional">Institucional</a>
+        <a class="nav-cta" href="#desarrollo">Jugá cricket</a>
+      </nav>
+      <button class="menu-btn" type="button" aria-controls="nav" aria-expanded="false" aria-label="Abrir menú" data-menu>
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Ticker de partidos -->
+  <div class="ticker" aria-label="Próximos partidos">
+    <div class="ticker-label"><span class="live-dot"></span> Esta semana</div>
+    <div class="ticker-track" data-ticker>
+      <a class="tick" href="#partidos"><span class="tick-comp">División 1 · Sáb 7/11 · 14:30</span><span class="tick-team"><img src="img/teams/hurlingham.webp" alt="" width="20" height="20">Hurlingham</span><span class="tick-team"><img src="img/teams/old-georgian.webp" alt="" width="20" height="20">Old Georgian</span></a>
+      <a class="tick" href="#partidos"><span class="tick-comp">División 1 · Sáb 7/11 · 14:30</span><span class="tick-team"><img src="img/teams/lomas.webp" alt="" width="20" height="20">Lomas</span><span class="tick-team"><img src="img/teams/belgrano.webp" alt="" width="20" height="20">Belgrano Bears</span></a>
+      <a class="tick" href="#partidos"><span class="tick-comp">División 1 · Sáb 7/11 · 14:30</span><span class="tick-team"><img src="img/teams/belgrano.webp" alt="" width="20" height="20">Belgrano Lions</span><span class="tick-team"><img src="img/teams/san-albano.webp" alt="" width="20" height="20">San Albano</span></a>
+      <a class="tick" href="#partidos"><span class="tick-comp">División 2 · Sáb 7/11 · 10:00</span><span class="tick-team"><img src="img/teams/belgrano.webp" alt="" width="20" height="20">Belgrano B</span><span class="tick-team"><img src="img/teams/lomas.webp" alt="" width="20" height="20">Lomas</span></a>
+      <a class="tick" href="#partidos"><span class="tick-comp">División 2 · Sáb 7/11 · 10:00</span><span class="tick-team"><img src="img/teams/belgrano.webp" alt="" width="20" height="20">Belgrano A</span><span class="tick-team"><img src="img/teams/san-albano.webp" alt="" width="20" height="20">San Albano</span></a>
+      <a class="tick" href="#partidos"><span class="tick-comp">División 2 · Sáb 7/11 · 10:00</span><span class="tick-team"><img src="img/teams/old-georgian.webp" alt="" width="20" height="20">Old Georgian</span><span class="tick-team"><img src="img/teams/hurlingham.webp" alt="" width="20" height="20">Hurlingham</span></a>
+      <a class="tick" href="#partidos"><span class="tick-comp">Liga de Verano HP · Dom 8/11 · 11:00</span><span class="tick-team"><span class="crest-txt">FN</span>Flamingos NG</span><span class="tick-team"><img src="img/teams/belgrano.webp" alt="" width="20" height="20">Belgrano B</span></a>
+    </div>
+    <div class="ticker-arrows">
+      <button type="button" aria-label="Anteriores" data-tick="-1"><i class="bi bi-chevron-left"></i></button>
+      <button type="button" aria-label="Siguientes" data-tick="1"><i class="bi bi-chevron-right"></i></button>
+    </div>
+  </div>
+
+  <main id="contenido">
+    <!-- Hero editorial -->
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <a class="story story-main" href="https://www.cricketargentina.com/news/5240/Las-Flamingos-se-quedaron-con-las-serie-con-M%C3%A9xico">
+          <img src="img/news/flamingos-mexico.webp" alt="Las Flamingos celebran la serie ganada ante México" width="1800" height="1011" fetchpriority="high">
+          <span class="story-body">
+            <span class="kicker kicker-pink">Selección femenina</span>
+            <h1>Las Flamingos se quedaron con la serie ante México</h1>
+            <span class="story-meta">26 de octubre de 2026 <span class="story-more">Leer nota <i class="bi bi-arrow-right"></i></span></span>
+          </span>
+        </a>
+        <div class="hero-side">
+          <a class="story story-side" href="https://www.cricketargentina.com/news/5191/Nuevo-encuentro-de-M9-y-M12">
+            <img src="img/albums/m9-m12-quilmes.webp" alt="Chicos y chicas en el encuentro M9 y M12 en Quilmes" width="1000" height="750" loading="lazy">
+            <span class="story-body">
+              <span class="kicker">Desarrollo</span>
+              <h2>Nuevo encuentro de M9 y M12</h2>
+              <span class="story-meta">7 de octubre de 2026</span>
+            </span>
+          </a>
+          <a class="story story-side" href="https://www.cricketargentina.com/news/5156/Mas-entrenadores-certificados-para-hacer-crecer-el-cricket">
+            <img src="img/news/entrenadores-certificados.webp" alt="Curso de entrenadores certificados" width="1200" height="450" loading="lazy">
+            <span class="story-body">
+              <span class="kicker">Capacitación</span>
+              <h2>Más entrenadores certificados para hacer crecer el cricket</h2>
+              <span class="story-meta">24 de septiembre de 2026</span>
+            </span>
+          </a>
+          <a class="hero-all" href="https://www.cricketargentina.com/media/news">Todas las noticias <i class="bi bi-arrow-right"></i></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Próximo partido -->
+    <section class="next">
+      <div class="wrap next-in">
+        <div class="next-head">
+          <span class="eyebrow">Próximo partido · División 1</span>
+          <p class="next-when"><span><i class="bi bi-calendar3"></i> Sábado 7 de noviembre, 14:30</span><span class="next-sep" aria-hidden="true">·</span><span><i class="bi bi-geo-alt"></i> Hurlingham Club</span></p>
+        </div>
+        <div class="next-match">
+          <div class="next-team"><img src="img/teams/hurlingham.webp" alt="" width="84" height="84"><strong>Hurlingham</strong></div>
+          <div class="countdown" data-countdown="2026-11-07T14:30:00-03:00" aria-label="Cuenta regresiva">
+            <div><strong data-cd="d">00</strong><span>días</span></div>
+            <div><strong data-cd="h">00</strong><span>horas</span></div>
+            <div><strong data-cd="m">00</strong><span>min</span></div>
+            <div><strong data-cd="s">00</strong><span>seg</span></div>
+          </div>
+          <div class="next-team"><img src="img/teams/old-georgian.webp" alt="" width="84" height="84"><strong>Old Georgian</strong></div>
+        </div>
+        <a class="btn btn-sun" href="#partidos">Ver el fixture completo <i class="bi bi-arrow-down"></i></a>
+      </div>
+    </section>
+
+    <!-- Fixture -->
+    <section class="section" id="partidos">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Temporada 2026/27</span>
+            <h2>Fixture</h2>
+          </div>
+          <div class="tabs" role="tablist" aria-label="Filtrar por competencia">
+            <button type="button" role="tab" aria-selected="true" data-filter="all">Todos</button>
+            <button type="button" role="tab" aria-selected="false" data-filter="d1">División 1</button>
+            <button type="button" role="tab" aria-selected="false" data-filter="d2">División 2</button>
+            <button type="button" role="tab" aria-selected="false" data-filter="fem">Femenino</button>
+          </div>
+        </div>
+
+        <div class="fixtures" data-fixtures>
+          <h3 class="fx-day">Sábado 7 de noviembre</h3>
+          <article class="fx" data-comp="d1">
+            <span class="fx-comp"><b>División 1</b> Primera masculina · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/hurlingham.webp" alt="" width="40" height="40">Hurlingham</span>
+            <span class="fx-time">14:30</span>
+            <span class="fx-team fx-away"><img src="img/teams/old-georgian.webp" alt="" width="40" height="40">Old Georgian</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> Hurlingham Club</span>
+          </article>
+          <article class="fx" data-comp="d1">
+            <span class="fx-comp"><b>División 1</b> Primera masculina · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/lomas.webp" alt="" width="40" height="40">Lomas</span>
+            <span class="fx-time">14:30</span>
+            <span class="fx-team fx-away"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano Bears</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> St George's, Quilmes</span>
+          </article>
+          <article class="fx" data-comp="d1">
+            <span class="fx-comp"><b>División 1</b> Primera masculina · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano Lions</span>
+            <span class="fx-time">14:30</span>
+            <span class="fx-team fx-away"><img src="img/teams/san-albano.webp" alt="" width="40" height="40">San Albano</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> Belgrano AC</span>
+          </article>
+          <article class="fx" data-comp="d2">
+            <span class="fx-comp"><b>División 2</b> Segunda división · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano B</span>
+            <span class="fx-time">10:00</span>
+            <span class="fx-team fx-away"><img src="img/teams/lomas.webp" alt="" width="40" height="40">Lomas</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> St George's, Quilmes</span>
+          </article>
+          <article class="fx" data-comp="d2">
+            <span class="fx-comp"><b>División 2</b> Segunda división · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano A</span>
+            <span class="fx-time">10:00</span>
+            <span class="fx-team fx-away"><img src="img/teams/san-albano.webp" alt="" width="40" height="40">San Albano</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> Pinazo</span>
+          </article>
+          <article class="fx" data-comp="d2">
+            <span class="fx-comp"><b>División 2</b> Segunda división · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/old-georgian.webp" alt="" width="40" height="40">Old Georgian</span>
+            <span class="fx-time">10:00</span>
+            <span class="fx-team fx-away"><img src="img/teams/hurlingham.webp" alt="" width="40" height="40">Hurlingham</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> Hurlingham Club</span>
+          </article>
+
+          <h3 class="fx-day">Domingo 8 de noviembre</h3>
+          <article class="fx" data-comp="fem">
+            <span class="fx-comp"><b class="b-pink">Liga de Verano HP</b> Femenina · Súper nocaut</span>
+            <span class="fx-team"><span class="crest-txt crest-lg">FN</span>Flamingos New Generation</span>
+            <span class="fx-time">11:00</span>
+            <span class="fx-team fx-away"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano B</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> St George's, Quilmes</span>
+          </article>
+
+          <h3 class="fx-day">Sábado 14 de noviembre</h3>
+          <article class="fx" data-comp="d1">
+            <span class="fx-comp"><b>División 1</b> Primera masculina · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano Lions</span>
+            <span class="fx-time">14:30</span>
+            <span class="fx-team fx-away"><img src="img/teams/old-georgian.webp" alt="" width="40" height="40">Old Georgian</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> St George's, Quilmes</span>
+          </article>
+          <article class="fx" data-comp="d1">
+            <span class="fx-comp"><b>División 1</b> Primera masculina · Overs limitados</span>
+            <span class="fx-team"><img src="img/teams/belgrano.webp" alt="" width="40" height="40">Belgrano Bears</span>
+            <span class="fx-time">14:30</span>
+            <span class="fx-team fx-away"><img src="img/teams/hurlingham.webp" alt="" width="40" height="40">Hurlingham</span>
+            <span class="fx-venue"><i class="bi bi-geo-alt"></i> Hurlingham Club</span>
+          </article>
+          <p class="fx-empty" data-fx-empty hidden>No hay partidos de esta competencia en las próximas fechas.</p>
+        </div>
+        <a class="link-more" href="https://www.cricketargentina.com/match-center/matches">Ver todos los partidos y resultados <i class="bi bi-arrow-right"></i></a>
+      </div>
+    </section>
+
+    <!-- Líderes -->
+    <section class="section section-navy" id="liga">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow eyebrow-light">Norte y Sur 2026</span>
+            <h2>Líderes estadísticos</h2>
+          </div>
+          <a class="link-more link-light" href="https://www.cricketargentina.com/match-center/matches">Estadísticas completas <i class="bi bi-arrow-right"></i></a>
+        </div>
+        <div class="leaders">
+          <article class="leader">
+            <div class="leader-photo"><img src="img/players/lautaro-musiani.webp" alt="Lautaro Musiani" width="600" height="800" loading="lazy"></div>
+            <div class="leader-body">
+              <span class="leader-stat">Carreras</span>
+              <strong class="leader-num">83</strong>
+              <h3>Lautaro Musiani</h3>
+              <span class="leader-team team-sur">Sur XI</span>
+            </div>
+          </article>
+          <article class="leader">
+            <div class="leader-photo"><img src="img/players/tomas-rossi.webp" alt="Tomás Rossi" width="600" height="902" loading="lazy"></div>
+            <div class="leader-body">
+              <span class="leader-stat">Strike rate</span>
+              <strong class="leader-num">160.00</strong>
+              <h3>Tomás Rossi</h3>
+              <span class="leader-team">Norte XI</span>
+            </div>
+          </article>
+          <article class="leader">
+            <div class="leader-photo"><img src="img/players/lucas-rossi.webp" alt="Lucas Rossi" width="600" height="902" loading="lazy"></div>
+            <div class="leader-body">
+              <span class="leader-stat">Wickets</span>
+              <strong class="leader-num">5</strong>
+              <h3>Lucas Rossi</h3>
+              <span class="leader-team">Norte XI</span>
+            </div>
+          </article>
+          <article class="leader">
+            <div class="leader-photo leader-empty"><span>JC</span></div>
+            <div class="leader-body">
+              <span class="leader-stat">Economía</span>
+              <strong class="leader-num">1.10</strong>
+              <h3>Juan Cabrera</h3>
+              <span class="leader-team">Norte XI</span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Norte y Sur -->
+    <section class="heritage" id="norte-y-sur">
+      <div class="wrap heritage-in">
+        <div class="heritage-num" aria-hidden="true">125<sup>+</sup></div>
+        <div class="heritage-copy">
+          <span class="eyebrow">El clásico del cricket argentino</span>
+          <h2>Norte y Sur</h2>
+          <p>Más de 125 ediciones enfrentando a los mejores jugadores del norte y del sur de Buenos Aires. Una tradición centenaria que reúne a los clubes, a las familias y a la historia del cricket en el país.</p>
+          <dl class="heritage-facts">
+            <div><dt>125.ª edición</dt><dd>Belgrano AC, 2024</dd></div>
+            <div><dt>124.ª edición</dt><dd>Club San Albano, 2023</dd></div>
+            <div><dt>Formato</dt><dd>Norte XI vs. Sur XI</dd></div>
+          </dl>
+          <a class="btn btn-navy" href="#medios">Ver fotos del clásico <i class="bi bi-arrow-right"></i></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Selecciones -->
+    <section class="section" id="selecciones">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Representando al país</span>
+            <h2>Selecciones nacionales</h2>
+          </div>
+        </div>
+        <div class="squads">
+          <a class="squad squad-big" href="https://www.cricketargentina.com/news/5240/Las-Flamingos-se-quedaron-con-las-serie-con-M%C3%A9xico">
+            <img src="img/albums/flamingos-canada.webp" alt="Las Flamingos celebran en la serie T20I ante Canadá" width="1350" height="1080" loading="lazy">
+            <span class="squad-body">
+              <span class="kicker kicker-pink">Femenina mayor</span>
+              <h3>Flamingos</h3>
+              <p>Campeonas de la serie ante México y protagonistas de la serie T20I con Canadá.</p>
+            </span>
+          </a>
+          <a class="squad" href="https://www.cricketargentina.com/media/albums">
+            <img src="img/albums/u19-femenina.webp" alt="Selección femenina U19" width="1600" height="1066" loading="lazy">
+            <span class="squad-body">
+              <span class="kicker">Juveniles</span>
+              <h3>Femenina U19</h3>
+              <p>Clasificatorio 2026 rumbo al Mundial juvenil.</p>
+            </span>
+          </a>
+          <a class="squad" href="https://www.cricketargentina.com/media/albums">
+            <img class="pos-top" src="img/players/tomas-rossi.webp" alt="Jugador de la selección masculina" width="600" height="902" loading="lazy">
+            <span class="squad-body">
+              <span class="kicker">Masculina mayor</span>
+              <h3>Selección masculina</h3>
+              <p>El equipo que representa a la Argentina en los torneos de la ICC.</p>
+            </span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Desarrollo -->
+    <section class="develop" id="desarrollo">
+      <div class="wrap develop-in">
+        <div class="develop-media">
+          <img src="img/albums/m9-m12-junio.webp" alt="Chicos y chicas con bates en un encuentro M9‑M12" width="876" height="788" loading="lazy">
+          <img class="develop-float" src="img/albums/clinicas.webp" alt="Clínica de cricket" width="1000" height="750" loading="lazy">
+        </div>
+        <div class="develop-copy">
+          <span class="eyebrow eyebrow-light">Desarrollo</span>
+          <h2>Jugá cricket en la Argentina</h2>
+          <p>Encuentros M9 y M12, clínicas abiertas y cursos de entrenadores con certificación de la ICC. Cualquier edad es buena para empezar.</p>
+          <ul class="develop-list">
+            <li><i class="bi bi-people-fill"></i><span><b>Infantiles y juveniles</b> Encuentros M9‑M12 durante todo el&nbsp;año.</span></li>
+            <li><i class="bi bi-award-fill"></i><span><b>Entrenadores</b> Cursos de Coaching ICC Nivel&nbsp;1.</span></li>
+            <li><i class="bi bi-geo-alt-fill"></i><span><b>Clubes</b> Más de seis sedes en Buenos Aires para entrenar y&nbsp;competir.</span></li>
+          </ul>
+          <div class="develop-ctas">
+            <a class="btn btn-sun" href="#clubes">Encontrá tu club <i class="bi bi-arrow-right"></i></a>
+            <a class="btn btn-outline-light" href="https://www.cricketargentina.com/argentina/contact-us">Escribinos</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Clubes -->
+    <section class="clubs" id="clubes">
+      <div class="wrap">
+        <h2 class="clubs-title">Clubes de la liga</h2>
+        <ul class="clubs-list">
+          <li><img src="img/teams/hurlingham.webp" alt="" width="72" height="72" loading="lazy"><span>Hurlingham Club</span></li>
+          <li><img src="img/teams/belgrano.webp" alt="" width="72" height="72" loading="lazy"><span>Belgrano Athletic</span></li>
+          <li><img src="img/teams/lomas.webp" alt="" width="72" height="72" loading="lazy"><span>Lomas Athletic</span></li>
+          <li><img src="img/teams/san-albano.webp" alt="" width="72" height="72" loading="lazy"><span>San Albano</span></li>
+          <li><img src="img/teams/old-georgian.webp" alt="" width="72" height="72" loading="lazy"><span>Old Georgian</span></li>
+          <li><span class="crest-txt crest-xl">SG</span><span>St George's&nbsp;Quilmes</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Galería -->
+    <section class="section" id="medios">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Medios</span>
+            <h2>Galería de fotos</h2>
+          </div>
+          <a class="link-more" href="https://www.cricketargentina.com/media/albums">Ver todos los álbumes <i class="bi bi-arrow-right"></i></a>
+        </div>
+        <div class="gallery">
+          <a class="album album-a" href="https://www.cricketargentina.com/media/albums"><img src="img/albums/flamingos-canada.webp" alt="" width="1350" height="1080" loading="lazy"><span class="album-body"><h3>Serie T20I Flamingos vs. Canadá</h3><span>3 de agosto de 2026 · 104 fotos</span></span></a>
+          <a class="album album-b" href="https://www.cricketargentina.com/media/albums"><img src="img/albums/m9-m12-quilmes.webp" alt="" width="1000" height="750" loading="lazy"><span class="album-body"><h3>Encuentro M9‑M12 mixto en Quilmes</h3><span>7 de octubre de 2026 · 25 fotos</span></span></a>
+          <a class="album" href="https://www.cricketargentina.com/media/albums"><img src="img/albums/coaching-icc.webp" alt="" width="800" height="1067" loading="lazy"><span class="album-body"><h3>Curso de Coaching ICC Nivel 1</h3><span>22 de septiembre de 2026 · 13 fotos</span></span></a>
+          <a class="album" href="https://www.cricketargentina.com/media/albums"><img src="img/albums/u19-femenina.webp" alt="" width="1600" height="1066" loading="lazy"><span class="album-body"><h3>Selección femenina U19</h3><span>19 de agosto de 2026 · 20 fotos</span></span></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- App -->
+    <section class="app" id="institucional">
+      <div class="wrap app-in">
+        <div class="app-copy">
+          <span class="eyebrow eyebrow-light">App oficial</span>
+          <h2>El cricket argentino, en tu bolsillo</h2>
+          <p>Resultados en vivo, marcadores bola a bola, estadísticas y fixture de todas las divisiones.</p>
+          <div class="app-stores">
+            <a href="https://apps.apple.com/in/app/cricket-argentina/id1526785996" target="_blank" rel="noopener"><i class="bi bi-apple"></i><span><small>Descargala en</small>App Store</span></a>
+            <a href="https://play.google.com/store/apps/details?id=com.cricheroes.argentina" target="_blank" rel="noopener"><i class="bi bi-google-play"></i><span><small>Disponible en</small>Google Play</span></a>
+          </div>
+        </div>
+        <div class="app-phone" aria-hidden="true">
+          <div class="phone">
+            <div class="phone-top"><img src="img/brand/logo.webp" alt="" width="22" height="24"> En vivo</div>
+            <div class="phone-card">
+              <span class="phone-comp">División 1 · 2.ª innings</span>
+              <div class="phone-row"><img src="img/teams/hurlingham.webp" alt="" width="26" height="26"> Hurlingham <b>186/7</b></div>
+              <div class="phone-row"><img src="img/teams/old-georgian.webp" alt="" width="26" height="26"> Old Georgian <b>142/4</b></div>
+              <span class="phone-need">Old Georgian necesita 45 carreras en 54 bolas</span>
+            </div>
+            <div class="phone-balls"><span>1</span><span>4</span><span class="w">W</span><span>0</span><span class="six">6</span><span>2</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Instituciones y sponsors -->
+    <section class="partners">
+      <div class="wrap partners-in">
+        <div>
+          <h2 class="partners-title">Afiliaciones</h2>
+          <div class="partners-logos">
+            <img src="img/brand/icc.png" alt="ICC, Miembro Asociado desde 1974" width="134" height="70" loading="lazy">
+            <img src="img/brand/coa.png" alt="Comité Olímpico Argentino" width="34" height="53" loading="lazy">
+            <img src="img/brand/cnad.png" alt="Comisión Nacional Antidopaje" width="91" height="53" loading="lazy">
+          </div>
+        </div>
+        <div>
+          <h2 class="partners-title">Sponsor oficial</h2>
+          <div class="partners-logos">
+            <a class="sponsor" href="http://www.roilands.com/" target="_blank" rel="noopener">ROILANDS</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-grid">
+      <div class="footer-brand">
+        <a class="brand brand-light" href="#"><img src="img/brand/logo.webp" alt="" width="44" height="48"><span class="brand-text"><strong>Cricket</strong> Argentina</span></a>
+        <p>Entidad rectora del cricket en la Argentina. Miembro Asociado de la ICC desde 1974.</p>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/cricket.argentina/" target="_blank" rel="noopener" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.facebook.com/cricketarg" target="_blank" rel="noopener" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+          <a href="https://twitter.com/Cricketarg" target="_blank" rel="noopener" aria-label="X"><i class="bi bi-twitter-x"></i></a>
+        </div>
+      </div>
+      <div>
+        <h3>Competencias</h3>
+        <a href="#partidos">Fixture y resultados</a>
+        <a href="#liga">Liga local</a>
+        <a href="#norte-y-sur">Norte y Sur</a>
+        <a href="#selecciones">Selecciones</a>
+      </div>
+      <div>
+        <h3>Institucional</h3>
+        <a href="#desarrollo">Desarrollo</a>
+        <a href="#clubes">Clubes</a>
+        <a href="#medios">Galería</a>
+        <a href="https://www.cricketargentina.com/argentina/contact-us">Contacto</a>
+      </div>
+      <div>
+        <h3>Legales</h3>
+        <a href="https://www.cricketargentina.com/terms-and-conditions">Términos y condiciones</a>
+        <a href="https://www.cricketargentina.com/privacy-policy">Política de privacidad</a>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <span>© <span data-year>2026</span> Cricket Argentina. Todos los derechos reservados.</span>
+      <span>Resultados en vivo con tecnología CricHeroes</span>
+    </div>
+  </footer>
+
+  <script src="js/main.js?v=1"></script>
+</body>
+</html>
