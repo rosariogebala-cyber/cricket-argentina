@@ -40,11 +40,11 @@
   /* Cuenta regresiva al próximo partido */
   var cd = document.querySelector("[data-countdown]");
   if (cd) {
-    var target = new Date(cd.getAttribute("data-countdown")).getTime();
     var parts = {};
     cd.querySelectorAll("[data-cd]").forEach(function (el) { parts[el.getAttribute("data-cd")] = el; });
     var pad = function (n) { return String(n).padStart(2, "0"); };
     var tick = function () {
+      var target = new Date(cd.getAttribute("data-countdown")).getTime();
       var left = Math.max(0, target - Date.now()) / 1000;
       parts.d.textContent = pad(Math.floor(left / 86400));
       parts.h.textContent = pad(Math.floor(left % 86400 / 3600));
