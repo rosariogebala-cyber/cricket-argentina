@@ -1,0 +1,44 @@
+name: Actualizar datos
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pillow
+
+      - name: Traer datos de CricHeroes y Facebook
+        env:
+          CRICHEROES_API_KEY: ${{ secrets.CRICHEROES_API_KEY }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: python scripts/actualizar.py
+
+      - name: Publicar cambios
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git config user.name "Actualizador"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "Datos actualizados $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
