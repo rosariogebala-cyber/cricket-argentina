@@ -1,28 +1,74 @@
 {
- "updated": "2026-11-07T13:08:07+00:00",
+ "updated": "2026-11-07T19:27:17+00:00",
  "upcoming": [
   {
-   "id": 28133703,
-   "start": "2026-11-07T12:56:47.000Z",
+   "id": 27914470,
+   "start": "2026-11-07T18:03:15.000Z",
    "status": "live",
-   "competition": "Division 2 (Segunda Division)",
+   "competition": "Division 1 - Primera Masculina",
    "round": "League Matches",
-   "ground": "Pinazo",
+   "ground": "Hurlingham Club",
    "overs": 20,
    "a": {
-    "name": "Belgrano A (Div. 2)",
-    "logo": "data/img/team-1bcd19dde736.webp",
-    "score": "16/0"
+    "name": "Hurlingham Club (Div. 1)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": "119/3"
    },
    "b": {
-    "name": "San Albano (Div. 2)",
-    "logo": "data/img/team-47121b13b4fb.webp",
+    "name": "Old Georgian Club (Div. 1)",
+    "logo": "data/img/team-e4dcffb1e80b.webp",
     "score": "Yet to bat"
    },
    "winner": "",
    "winBy": "",
    "result": "",
-   "url": "https://www.cricketargentina.com/match/28133703"
+   "url": "https://www.cricketargentina.com/match/27914470"
+  },
+  {
+   "id": 27914424,
+   "start": "2026-11-07T17:49:00.000Z",
+   "status": "live",
+   "competition": "Division 1 - Primera Masculina",
+   "round": "League Matches",
+   "ground": "St Georges Quilmes",
+   "overs": 20,
+   "a": {
+    "name": "Belgrano Bears",
+    "logo": "data/img/team-3aaec4b37d5c.webp",
+    "score": "157/6"
+   },
+   "b": {
+    "name": "Lomas (Div. 1)",
+    "logo": "data/img/team-f18a78238353.webp",
+    "score": "11/0"
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/27914424"
+  },
+  {
+   "id": 27914486,
+   "start": "2026-11-07T17:30:00.000Z",
+   "status": "live",
+   "competition": "Division 1 - Primera Masculina",
+   "round": "League Matches",
+   "ground": "Belgrano AC",
+   "overs": 20,
+   "a": {
+    "name": "Belgrano Lions",
+    "logo": "data/img/team-0e7d0fe2faf6.webp",
+    "score": "177/8"
+   },
+   "b": {
+    "name": "San Albano (Div. 1)",
+    "logo": "data/img/team-629d64071a4a.webp",
+    "score": "3/0"
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/27914486"
   },
   {
    "id": 28067119,
@@ -48,27 +94,27 @@
    "url": "https://www.cricketargentina.com/match/28067119"
   },
   {
-   "id": 27914518,
+   "id": 27914529,
    "start": "2026-11-14T17:30:00.000Z",
    "status": "upcoming",
    "competition": "Division 1 - Primera Masculina",
    "round": "League Matches",
-   "ground": "Corimayo",
+   "ground": "St Georges Quilmes",
    "overs": 20,
    "a": {
-    "name": "Lomas (Div. 1)",
-    "logo": "data/img/team-f18a78238353.webp",
+    "name": "Belgrano Lions",
+    "logo": "data/img/team-0e7d0fe2faf6.webp",
     "score": ""
    },
    "b": {
-    "name": "San Albano (Div. 1)",
-    "logo": "data/img/team-629d64071a4a.webp",
+    "name": "Old Georgian Club (Div. 1)",
+    "logo": "data/img/team-e4dcffb1e80b.webp",
     "score": ""
    },
    "winner": "",
    "winBy": "",
    "result": "",
-   "url": "https://www.cricketargentina.com/match/27914518"
+   "url": "https://www.cricketargentina.com/match/27914529"
   },
   {
    "id": 27914503,
@@ -94,27 +140,27 @@
    "url": "https://www.cricketargentina.com/match/27914503"
   },
   {
-   "id": 27914529,
+   "id": 27914518,
    "start": "2026-11-14T17:30:00.000Z",
    "status": "upcoming",
    "competition": "Division 1 - Primera Masculina",
    "round": "League Matches",
-   "ground": "St Georges Quilmes",
+   "ground": "Corimayo",
    "overs": 20,
    "a": {
-    "name": "Belgrano Lions",
-    "logo": "data/img/team-0e7d0fe2faf6.webp",
+    "name": "Lomas (Div. 1)",
+    "logo": "data/img/team-f18a78238353.webp",
     "score": ""
    },
    "b": {
-    "name": "Old Georgian Club (Div. 1)",
-    "logo": "data/img/team-e4dcffb1e80b.webp",
+    "name": "San Albano (Div. 1)",
+    "logo": "data/img/team-629d64071a4a.webp",
     "score": ""
    },
    "winner": "",
    "winBy": "",
    "result": "",
-   "url": "https://www.cricketargentina.com/match/27914529"
+   "url": "https://www.cricketargentina.com/match/27914518"
   },
   {
    "id": 27947404,
@@ -184,55 +230,78 @@
    "winBy": "",
    "result": "",
    "url": "https://www.cricketargentina.com/match/27955536"
-  },
+  }
+ ],
+ "results": [
   {
-   "id": 27914852,
-   "start": "2026-11-29T13:00:00.000Z",
-   "status": "upcoming",
-   "competition": "Women Div 1 - Primera Mujeres",
+   "id": 28133703,
+   "start": "2026-11-07T12:56:00.000Z",
+   "status": "past",
+   "competition": "Division 2 (Segunda Division)",
    "round": "League Matches",
-   "ground": "Corimayo",
+   "ground": "Pinazo",
    "overs": 20,
    "a": {
-    "name": "San Albano (Women)",
-    "logo": "data/img/team-b1ac3c920016.webp",
-    "score": ""
+    "name": "Belgrano A (Div. 2)",
+    "logo": "data/img/team-1bcd19dde736.webp",
+    "score": "119/5"
    },
    "b": {
-    "name": "Lomas-W ",
-    "logo": "data/img/team-ffd9f727053a.webp",
-    "score": ""
+    "name": "San Albano (Div. 2)",
+    "logo": "data/img/team-47121b13b4fb.webp",
+    "score": "120/4"
    },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/27914852"
+   "winner": "San Albano (Div. 2)",
+   "winBy": "6 wickets",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/28133703"
   },
   {
-   "id": 27914854,
-   "start": "2026-11-29T13:00:00.000Z",
-   "status": "upcoming",
-   "competition": "Women Div 1 - Primera Mujeres",
+   "id": 27914667,
+   "start": "2026-11-07T13:10:00.000Z",
+   "status": "past",
+   "competition": "Division 2 (Segunda Division)",
    "round": "League Matches",
    "ground": "St Georges Quilmes",
    "overs": 20,
    "a": {
-    "name": "Bedes-W",
-    "logo": "data/img/team-b9f37a658e40.webp",
-    "score": ""
+    "name": "Belgrano B (Div. 2)",
+    "logo": "data/img/team-c6a641474b7d.webp",
+    "score": "114/10"
    },
    "b": {
-    "name": "Belgrano-W",
-    "logo": "data/img/team-d8584d747e4f.webp",
-    "score": ""
+    "name": "Lomas (Div. 2)",
+    "logo": "data/img/team-ea317b66ea3b.webp",
+    "score": "61/10"
    },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/27914854"
-  }
- ],
- "results": [
+   "winner": "Belgrano B (Div. 2)",
+   "winBy": "53 runs",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/27914667"
+  },
+  {
+   "id": 27914674,
+   "start": "2026-11-07T13:24:51.000Z",
+   "status": "past",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "Hurlingham Club",
+   "overs": 20,
+   "a": {
+    "name": "Old Georgian Club (Div. 2)",
+    "logo": "data/img/team-397292482619.webp",
+    "score": "188/6"
+   },
+   "b": {
+    "name": "Hurlingham Club (Div. 1)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": "82/10"
+   },
+   "winner": "Old Georgian Club (Div. 2)",
+   "winBy": "106 runs",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/27914674"
+  },
   {
    "id": 27914660,
    "start": "2026-10-31T13:05:04.000Z",
@@ -301,75 +370,6 @@
    "winBy": "rain stopped play",
    "result": "abandoned",
    "url": "https://www.cricketargentina.com/match/27355602"
-  },
-  {
-   "id": 26260022,
-   "start": "2026-08-02T17:27:13.000Z",
-   "status": "past",
-   "competition": "Womens T20i Series Argentina vs Canada",
-   "round": "Super Knockout",
-   "ground": "St Georges Quilmes",
-   "overs": 20,
-   "a": {
-    "name": "Canada-W 2026",
-    "logo": "data/img/team-3022f961777a.webp",
-    "score": "67/8"
-   },
-   "b": {
-    "name": "Argentina-W 2026",
-    "logo": "data/img/team-740f5ed6c240.webp",
-    "score": "70/8"
-   },
-   "winner": "Argentina-W 2026",
-   "winBy": "2 wickets",
-   "result": "Resulted",
-   "url": "https://www.cricketargentina.com/match/26260022"
-  },
-  {
-   "id": 26260023,
-   "start": "2026-08-02T13:58:14.000Z",
-   "status": "past",
-   "competition": "Womens T20i Series Argentina vs Canada",
-   "round": "Super Knockout",
-   "ground": "St Georges Quilmes",
-   "overs": 15,
-   "a": {
-    "name": "Argentina-W 2026",
-    "logo": "data/img/team-740f5ed6c240.webp",
-    "score": "99/4"
-   },
-   "b": {
-    "name": "Canada-W 2026",
-    "logo": "data/img/team-3022f961777a.webp",
-    "score": "78/7"
-   },
-   "winner": "Argentina-W 2026",
-   "winBy": "21 runs",
-   "result": "Resulted",
-   "url": "https://www.cricketargentina.com/match/26260023"
-  },
-  {
-   "id": 26418432,
-   "start": "2026-08-01T19:38:29.000Z",
-   "status": "past",
-   "competition": "Womens T20i Series Argentina vs Canada",
-   "round": "Super Knockout",
-   "ground": "St Georges Quilmes",
-   "overs": 10,
-   "a": {
-    "name": "Argentina-W 2026",
-    "logo": "data/img/team-740f5ed6c240.webp",
-    "score": "71/7"
-   },
-   "b": {
-    "name": "Canada-W 2026",
-    "logo": "data/img/team-3022f961777a.webp",
-    "score": "75/2"
-   },
-   "winner": "Canada-W 2026",
-   "winBy": "8 wickets",
-   "result": "Resulted",
-   "url": "https://www.cricketargentina.com/match/26418432"
   }
  ],
  "news": [
