@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-07T06:03:22+00:00",
+ "updated": "2026-11-07T13:08:07+00:00",
  "upcoming": [
+  {
+   "id": 28133703,
+   "start": "2026-11-07T12:56:47.000Z",
+   "status": "live",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "Pinazo",
+   "overs": 20,
+   "a": {
+    "name": "Belgrano A (Div. 2)",
+    "logo": "data/img/team-1bcd19dde736.webp",
+    "score": "16/0"
+   },
+   "b": {
+    "name": "San Albano (Div. 2)",
+    "logo": "data/img/team-47121b13b4fb.webp",
+    "score": "Yet to bat"
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28133703"
+  },
   {
    "id": 28067119,
    "start": "2026-11-08T14:00:00.000Z",
@@ -163,29 +186,6 @@
    "url": "https://www.cricketargentina.com/match/27955536"
   },
   {
-   "id": 27914854,
-   "start": "2026-11-29T13:00:00.000Z",
-   "status": "upcoming",
-   "competition": "Women Div 1 - Primera Mujeres",
-   "round": "League Matches",
-   "ground": "St Georges Quilmes",
-   "overs": 20,
-   "a": {
-    "name": "Bedes-W",
-    "logo": "data/img/team-b9f37a658e40.webp",
-    "score": ""
-   },
-   "b": {
-    "name": "Belgrano-W",
-    "logo": "data/img/team-d8584d747e4f.webp",
-    "score": ""
-   },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/27914854"
-  },
-  {
    "id": 27914852,
    "start": "2026-11-29T13:00:00.000Z",
    "status": "upcoming",
@@ -209,27 +209,27 @@
    "url": "https://www.cricketargentina.com/match/27914852"
   },
   {
-   "id": 27955545,
-   "start": "2026-12-05T14:00:00.000Z",
+   "id": 27914854,
+   "start": "2026-11-29T13:00:00.000Z",
    "status": "upcoming",
-   "competition": "Womens HP Summer League",
-   "round": "Super Knockout",
-   "ground": "Belgrano Athletic Club",
+   "competition": "Women Div 1 - Primera Mujeres",
+   "round": "League Matches",
+   "ground": "St Georges Quilmes",
    "overs": 20,
    "a": {
-    "name": "Flamingos New Generation",
-    "logo": "data/img/team-d4d9995b3620.webp",
+    "name": "Bedes-W",
+    "logo": "data/img/team-b9f37a658e40.webp",
     "score": ""
    },
    "b": {
-    "name": "Belgrano A (Div. 2)",
-    "logo": "data/img/team-1bcd19dde736.webp",
+    "name": "Belgrano-W",
+    "logo": "data/img/team-d8584d747e4f.webp",
     "score": ""
    },
    "winner": "",
    "winBy": "",
    "result": "",
-   "url": "https://www.cricketargentina.com/match/27955545"
+   "url": "https://www.cricketargentina.com/match/27914854"
   }
  ],
  "results": [
