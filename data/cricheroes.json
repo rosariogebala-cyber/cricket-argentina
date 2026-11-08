@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-08T00:41:21+00:00",
+ "updated": "2026-11-08T17:57:10+00:00",
  "upcoming": [
   {
-   "id": 27914529,
+   "id": 27914518,
    "start": "2026-11-14T17:30:00.000Z",
    "status": "upcoming",
    "competition": "Division 1 - Primera Masculina",
    "round": "League Matches",
-   "ground": "St Georges Quilmes",
+   "ground": "Corimayo",
    "overs": 20,
    "a": {
-    "name": "Belgrano Lions",
-    "logo": "data/img/team-0e7d0fe2faf6.webp",
+    "name": "Lomas (Div. 1)",
+    "logo": "data/img/team-f18a78238353.webp",
     "score": ""
    },
    "b": {
-    "name": "Old Georgian Club (Div. 1)",
-    "logo": "data/img/team-e4dcffb1e80b.webp",
+    "name": "San Albano (Div. 1)",
+    "logo": "data/img/team-629d64071a4a.webp",
     "score": ""
    },
    "winner": "",
    "winBy": "",
    "result": "",
-   "url": "https://www.cricketargentina.com/match/27914529"
+   "url": "https://www.cricketargentina.com/match/27914518"
   },
   {
    "id": 27914503,
@@ -48,27 +48,27 @@
    "url": "https://www.cricketargentina.com/match/27914503"
   },
   {
-   "id": 27914518,
+   "id": 27914529,
    "start": "2026-11-14T17:30:00.000Z",
    "status": "upcoming",
    "competition": "Division 1 - Primera Masculina",
    "round": "League Matches",
-   "ground": "Corimayo",
+   "ground": "St Georges Quilmes",
    "overs": 20,
    "a": {
-    "name": "Lomas (Div. 1)",
-    "logo": "data/img/team-f18a78238353.webp",
+    "name": "Belgrano Lions",
+    "logo": "data/img/team-0e7d0fe2faf6.webp",
     "score": ""
    },
    "b": {
-    "name": "San Albano (Div. 1)",
-    "logo": "data/img/team-629d64071a4a.webp",
+    "name": "Old Georgian Club (Div. 1)",
+    "logo": "data/img/team-e4dcffb1e80b.webp",
     "score": ""
    },
    "winner": "",
    "winBy": "",
    "result": "",
-   "url": "https://www.cricketargentina.com/match/27914518"
+   "url": "https://www.cricketargentina.com/match/27914529"
   },
   {
    "id": 27947404,
@@ -140,29 +140,6 @@
    "url": "https://www.cricketargentina.com/match/27955536"
   },
   {
-   "id": 27914852,
-   "start": "2026-11-29T13:00:00.000Z",
-   "status": "upcoming",
-   "competition": "Women Div 1 - Primera Mujeres",
-   "round": "League Matches",
-   "ground": "Corimayo",
-   "overs": 20,
-   "a": {
-    "name": "San Albano (Women)",
-    "logo": "data/img/team-b1ac3c920016.webp",
-    "score": ""
-   },
-   "b": {
-    "name": "Lomas-W ",
-    "logo": "data/img/team-ffd9f727053a.webp",
-    "score": ""
-   },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/27914852"
-  },
-  {
    "id": 27914854,
    "start": "2026-11-29T13:00:00.000Z",
    "status": "upcoming",
@@ -184,6 +161,29 @@
    "winBy": "",
    "result": "",
    "url": "https://www.cricketargentina.com/match/27914854"
+  },
+  {
+   "id": 27914852,
+   "start": "2026-11-29T13:00:00.000Z",
+   "status": "upcoming",
+   "competition": "Women Div 1 - Primera Mujeres",
+   "round": "League Matches",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "San Albano (Women)",
+    "logo": "data/img/team-b1ac3c920016.webp",
+    "score": ""
+   },
+   "b": {
+    "name": "Lomas-W ",
+    "logo": "data/img/team-ffd9f727053a.webp",
+    "score": ""
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/27914852"
   },
   {
    "id": 27955545,
@@ -234,96 +234,27 @@
  ],
  "results": [
   {
-   "id": 27914674,
-   "start": "2026-11-07T13:24:51.000Z",
+   "id": 28162491,
+   "start": "2026-11-08T13:18:39.000Z",
    "status": "past",
-   "competition": "Division 2 (Segunda Division)",
-   "round": "League Matches",
-   "ground": "Hurlingham Club",
-   "overs": 20,
-   "a": {
-    "name": "Old Georgian Club (Div. 2)",
-    "logo": "data/img/team-397292482619.webp",
-    "score": "188/6"
-   },
-   "b": {
-    "name": "Hurlingham Club (Div. 1)",
-    "logo": "data/img/team-4985a004330d.webp",
-    "score": "82/10"
-   },
-   "winner": "Old Georgian Club (Div. 2)",
-   "winBy": "106 runs",
-   "result": "resulted",
-   "url": "https://www.cricketargentina.com/match/27914674"
-  },
-  {
-   "id": 28133703,
-   "start": "2026-11-07T12:56:00.000Z",
-   "status": "past",
-   "competition": "Division 2 (Segunda Division)",
-   "round": "League Matches",
-   "ground": "Pinazo",
-   "overs": 20,
-   "a": {
-    "name": "Belgrano A (Div. 2)",
-    "logo": "data/img/team-1bcd19dde736.webp",
-    "score": "119/5"
-   },
-   "b": {
-    "name": "San Albano (Div. 2)",
-    "logo": "data/img/team-47121b13b4fb.webp",
-    "score": "120/4"
-   },
-   "winner": "San Albano (Div. 2)",
-   "winBy": "6 wickets",
-   "result": "resulted",
-   "url": "https://www.cricketargentina.com/match/28133703"
-  },
-  {
-   "id": 27914470,
-   "start": "2026-11-07T18:00:46.000Z",
-   "status": "past",
-   "competition": "Division 1 - Primera Masculina",
-   "round": "League Matches",
-   "ground": "Hurlingham Club",
-   "overs": 20,
-   "a": {
-    "name": "Hurlingham Club (Div. 1)",
-    "logo": "data/img/team-4985a004330d.webp",
-    "score": "141/5"
-   },
-   "b": {
-    "name": "Old Georgian Club (Div. 1)",
-    "logo": "data/img/team-e4dcffb1e80b.webp",
-    "score": "76/10"
-   },
-   "winner": "Hurlingham Club (Div. 1)",
-   "winBy": "65 runs",
-   "result": "resulted",
-   "url": "https://www.cricketargentina.com/match/27914470"
-  },
-  {
-   "id": 27914424,
-   "start": "2026-11-07T17:40:25.000Z",
-   "status": "past",
-   "competition": "Division 1 - Primera Masculina",
-   "round": "League Matches",
+   "competition": "Warm Up Games (Partidos Amistosos)",
+   "round": "Super Knockout",
    "ground": "St Georges Quilmes",
    "overs": 20,
    "a": {
-    "name": "Belgrano Bears",
-    "logo": "data/img/team-3aaec4b37d5c.webp",
-    "score": "157/6"
+    "name": "Flamingos New Generation",
+    "logo": "data/img/team-d4d9995b3620.webp",
+    "score": "94/8"
    },
    "b": {
-    "name": "Lomas (Div. 1)",
-    "logo": "data/img/team-f18a78238353.webp",
-    "score": "159/4"
+    "name": "Belgrano Birds (M15)",
+    "logo": "data/img/team-70933535a690.webp",
+    "score": "95/7"
    },
-   "winner": "Lomas (Div. 1)",
-   "winBy": "6 wickets",
+   "winner": "Belgrano Birds (M15)",
+   "winBy": "3 wickets",
    "result": "resulted",
-   "url": "https://www.cricketargentina.com/match/27914424"
+   "url": "https://www.cricketargentina.com/match/28162491"
   },
   {
    "id": 27914667,
@@ -349,6 +280,29 @@
    "url": "https://www.cricketargentina.com/match/27914667"
   },
   {
+   "id": 27914424,
+   "start": "2026-11-07T17:40:25.000Z",
+   "status": "past",
+   "competition": "Division 1 - Primera Masculina",
+   "round": "League Matches",
+   "ground": "St Georges Quilmes",
+   "overs": 20,
+   "a": {
+    "name": "Belgrano Bears",
+    "logo": "data/img/team-3aaec4b37d5c.webp",
+    "score": "157/6"
+   },
+   "b": {
+    "name": "Lomas (Div. 1)",
+    "logo": "data/img/team-f18a78238353.webp",
+    "score": "159/4"
+   },
+   "winner": "Lomas (Div. 1)",
+   "winBy": "6 wickets",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/27914424"
+  },
+  {
    "id": 27914486,
    "start": "2026-11-07T17:24:10.000Z",
    "status": "past",
@@ -370,6 +324,52 @@
    "winBy": "85 runs",
    "result": "resulted",
    "url": "https://www.cricketargentina.com/match/27914486"
+  },
+  {
+   "id": 27914470,
+   "start": "2026-11-07T18:00:46.000Z",
+   "status": "past",
+   "competition": "Division 1 - Primera Masculina",
+   "round": "League Matches",
+   "ground": "Hurlingham Club",
+   "overs": 20,
+   "a": {
+    "name": "Hurlingham Club (Div. 1)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": "141/5"
+   },
+   "b": {
+    "name": "Old Georgian Club (Div. 1)",
+    "logo": "data/img/team-e4dcffb1e80b.webp",
+    "score": "76/10"
+   },
+   "winner": "Hurlingham Club (Div. 1)",
+   "winBy": "65 runs",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/27914470"
+  },
+  {
+   "id": 27914674,
+   "start": "2026-11-07T13:24:51.000Z",
+   "status": "past",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "Hurlingham Club",
+   "overs": 20,
+   "a": {
+    "name": "Old Georgian Club (Div. 2)",
+    "logo": "data/img/team-397292482619.webp",
+    "score": "188/6"
+   },
+   "b": {
+    "name": "Hurlingham Club (Div. 1)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": "82/10"
+   },
+   "winner": "Old Georgian Club (Div. 2)",
+   "winBy": "106 runs",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/27914674"
   }
  ],
  "news": [
