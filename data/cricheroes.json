@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:52:17+00:00",
+ "updated": "2026-11-11T17:12:31+00:00",
  "upcoming": [
   {
    "id": 27914518,
@@ -23,6 +23,29 @@
    "winBy": "",
    "result": "",
    "url": "https://www.cricketargentina.com/match/27914518"
+  },
+  {
+   "id": 28221288,
+   "start": "2026-11-14T13:00:00.000Z",
+   "status": "upcoming",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "San Albano (Div. 2)",
+    "logo": "data/img/team-47121b13b4fb.webp",
+    "score": ""
+   },
+   "b": {
+    "name": "Lomas (Div. 2)",
+    "logo": "data/img/team-ea317b66ea3b.webp",
+    "score": ""
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28221288"
   },
   {
    "id": 27914503,
@@ -207,29 +230,6 @@
    "winBy": "",
    "result": "",
    "url": "https://www.cricketargentina.com/match/27914854"
-  },
-  {
-   "id": 27955545,
-   "start": "2026-12-05T14:00:00.000Z",
-   "status": "upcoming",
-   "competition": "Womens HP Summer League",
-   "round": "Super Knockout",
-   "ground": "Belgrano Athletic Club",
-   "overs": 20,
-   "a": {
-    "name": "Flamingos New Generation",
-    "logo": "data/img/team-d4d9995b3620.webp",
-    "score": ""
-   },
-   "b": {
-    "name": "Belgrano A (Div. 2)",
-    "logo": "data/img/team-1bcd19dde736.webp",
-    "score": ""
-   },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/27955545"
   }
  ],
  "results": [
