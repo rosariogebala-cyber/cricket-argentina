@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-15T06:39:10+00:00",
+ "updated": "2026-11-15T16:24:34+00:00",
  "upcoming": [
+  {
+   "id": 28322085,
+   "start": "2026-11-15T12:48:00.000Z",
+   "status": "live",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "San Albano (Div. 2)",
+    "logo": "data/img/team-47121b13b4fb.webp",
+    "score": "132/10"
+   },
+   "b": {
+    "name": "Bedes (Div. 2)",
+    "logo": "data/img/team-a2dfd3a48f5d.webp",
+    "score": "Yet to bat"
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28322085"
+  },
+  {
+   "id": 28324623,
+   "start": "2026-11-15T15:22:00.000Z",
+   "status": "live",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "St Georges Quilmes",
+   "overs": 20,
+   "a": {
+    "name": "Bedes (Div. 2)",
+    "logo": "data/img/team-a2dfd3a48f5d.webp",
+    "score": "41/10"
+   },
+   "b": {
+    "name": "San Albano (Div. 2)",
+    "logo": "data/img/team-47121b13b4fb.webp",
+    "score": "Yet to bat"
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28324623"
+  },
   {
    "id": 27955513,
    "start": "2026-11-21T14:00:00.000Z",
