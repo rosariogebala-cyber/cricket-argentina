@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-15T22:52:00+00:00",
+ "updated": "2026-11-18T00:58:55+00:00",
  "upcoming": [
+  {
+   "id": 28355970,
+   "start": "2026-11-21T13:30:00.000Z",
+   "status": "upcoming",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "San Albano (Div. 2)",
+    "logo": "data/img/team-47121b13b4fb.webp",
+    "score": ""
+   },
+   "b": {
+    "name": "Hurlingham Club (Div. 1)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": ""
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28355970"
+  },
   {
    "id": 27955513,
    "start": "2026-11-21T14:00:00.000Z",
@@ -23,6 +46,52 @@
    "winBy": "",
    "result": "",
    "url": "https://www.cricketargentina.com/match/27955513"
+  },
+  {
+   "id": 28355996,
+   "start": "2026-11-21T13:30:00.000Z",
+   "status": "upcoming",
+   "competition": "Division 2 (Segunda Division)",
+   "round": "League Matches",
+   "ground": "St Georges College North",
+   "overs": 20,
+   "a": {
+    "name": "Bedes (Div. 2)",
+    "logo": "data/img/team-a2dfd3a48f5d.webp",
+    "score": ""
+   },
+   "b": {
+    "name": "Lomas (Div. 2)",
+    "logo": "data/img/team-ea317b66ea3b.webp",
+    "score": ""
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28355996"
+  },
+  {
+   "id": 28355966,
+   "start": "2026-11-21T17:30:00.000Z",
+   "status": "upcoming",
+   "competition": "Division 1 - Primera Masculina",
+   "round": "League Matches",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "San Albano (Div. 1)",
+    "logo": "data/img/team-629d64071a4a.webp",
+    "score": ""
+   },
+   "b": {
+    "name": "Hurlingham Club (Div. 1)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": ""
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/28355966"
   },
   {
    "id": 27955536,
@@ -48,29 +117,6 @@
    "url": "https://www.cricketargentina.com/match/27955536"
   },
   {
-   "id": 27914854,
-   "start": "2026-11-29T13:00:00.000Z",
-   "status": "upcoming",
-   "competition": "Women Div 1 - Primera Mujeres",
-   "round": "League Matches",
-   "ground": "St Georges Quilmes",
-   "overs": 20,
-   "a": {
-    "name": "Bedes-W",
-    "logo": "data/img/team-b9f37a658e40.webp",
-    "score": ""
-   },
-   "b": {
-    "name": "Belgrano-W",
-    "logo": "data/img/team-d8584d747e4f.webp",
-    "score": ""
-   },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/27914854"
-  },
-  {
    "id": 27914852,
    "start": "2026-11-29T13:00:00.000Z",
    "status": "upcoming",
@@ -92,6 +138,29 @@
    "winBy": "",
    "result": "",
    "url": "https://www.cricketargentina.com/match/27914852"
+  },
+  {
+   "id": 27914854,
+   "start": "2026-11-29T13:00:00.000Z",
+   "status": "upcoming",
+   "competition": "Women Div 1 - Primera Mujeres",
+   "round": "League Matches",
+   "ground": "St Georges Quilmes",
+   "overs": 20,
+   "a": {
+    "name": "Bedes-W",
+    "logo": "data/img/team-b9f37a658e40.webp",
+    "score": ""
+   },
+   "b": {
+    "name": "Belgrano-W",
+    "logo": "data/img/team-d8584d747e4f.webp",
+    "score": ""
+   },
+   "winner": "",
+   "winBy": "",
+   "result": "",
+   "url": "https://www.cricketargentina.com/match/27914854"
   },
   {
    "id": 27955545,
