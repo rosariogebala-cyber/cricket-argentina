@@ -1,29 +1,6 @@
 {
- "updated": "2026-11-21T19:19:52+00:00",
+ "updated": "2026-11-22T01:22:38+00:00",
  "upcoming": [
-  {
-   "id": 28355966,
-   "start": "2026-11-21T17:30:00.000Z",
-   "status": "live",
-   "competition": "Division 1 - Primera Masculina",
-   "round": "League Matches",
-   "ground": "Corimayo",
-   "overs": 20,
-   "a": {
-    "name": "Hurlingham Club (Div. 1)",
-    "logo": "data/img/team-4985a004330d.webp",
-    "score": "99/10"
-   },
-   "b": {
-    "name": "San Albano (Div. 1)",
-    "logo": "data/img/team-629d64071a4a.webp",
-    "score": "14/0"
-   },
-   "winner": "",
-   "winBy": "",
-   "result": "",
-   "url": "https://www.cricketargentina.com/match/28355966"
-  },
   {
    "id": 27955536,
    "start": "2026-11-28T14:00:00.000Z",
@@ -155,14 +132,37 @@
     "score": "135/7"
    },
    "b": {
-    "name": "Hurlingham Club (Div. 1)",
+    "name": "Hurlingham Club (Div. 2)",
     "logo": "data/img/team-4985a004330d.webp",
     "score": "136/6"
    },
-   "winner": "Hurlingham Club (Div. 1)",
+   "winner": "Hurlingham Club (Div. 2)",
    "winBy": "4 wickets",
    "result": "Resulted",
    "url": "https://www.cricketargentina.com/match/28420468"
+  },
+  {
+   "id": 28355966,
+   "start": "2026-11-21T17:31:07.000Z",
+   "status": "past",
+   "competition": "Division 1 - Primera Masculina",
+   "round": "League Matches",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "Hurlingham Club (Div. 2)",
+    "logo": "data/img/team-4985a004330d.webp",
+    "score": "99/10"
+   },
+   "b": {
+    "name": "San Albano (Div. 1)",
+    "logo": "data/img/team-629d64071a4a.webp",
+    "score": "100/2"
+   },
+   "winner": "San Albano (Div. 1)",
+   "winBy": "8 wickets",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/28355966"
   },
   {
    "id": 27947404,
@@ -234,29 +234,6 @@
    "url": "https://www.cricketargentina.com/match/27914518"
   },
   {
-   "id": 28283957,
-   "start": "2026-11-14T13:17:38.000Z",
-   "status": "past",
-   "competition": "Division 2 (Segunda Division)",
-   "round": "League Matches",
-   "ground": "Hurlingham Club",
-   "overs": 20,
-   "a": {
-    "name": "Belgrano B (Div. 2)",
-    "logo": "data/img/team-c6a641474b7d.webp",
-    "score": "189/4"
-   },
-   "b": {
-    "name": "Hurlingham Club (Div. 1)",
-    "logo": "data/img/team-4985a004330d.webp",
-    "score": "103/10"
-   },
-   "winner": "Belgrano B (Div. 2)",
-   "winBy": "86 runs",
-   "result": "resulted",
-   "url": "https://www.cricketargentina.com/match/28283957"
-  },
-  {
    "id": 27914503,
    "start": "2026-11-14T18:04:35.000Z",
    "status": "past",
@@ -270,7 +247,7 @@
     "score": "161/7"
    },
    "b": {
-    "name": "Hurlingham Club (Div. 1)",
+    "name": "Hurlingham Club (Div. 2)",
     "logo": "data/img/team-4985a004330d.webp",
     "score": "113/9"
    },
