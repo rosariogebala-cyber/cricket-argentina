@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:22:38+00:00",
+ "updated": "2026-11-24T02:14:46+00:00",
  "upcoming": [
   {
    "id": 27955536,
@@ -119,6 +119,29 @@
  ],
  "results": [
   {
+   "id": 28476132,
+   "start": "2026-11-23T13:11:59.000Z",
+   "status": "past",
+   "competition": "Womens HP Summer League",
+   "round": "Super Knockout",
+   "ground": "Corimayo",
+   "overs": 20,
+   "a": {
+    "name": "Flamingos OG",
+    "logo": "data/img/team-386f6ad97f29.webp",
+    "score": "107/5"
+   },
+   "b": {
+    "name": "Flamingos New Generation",
+    "logo": "data/img/team-d4d9995b3620.webp",
+    "score": "108/2"
+   },
+   "winner": "Flamingos New Generation",
+   "winBy": "8 wickets",
+   "result": "resulted",
+   "url": "https://www.cricketargentina.com/match/28476132"
+  },
+  {
    "id": 28420468,
    "start": "2026-11-21T13:06:00.000Z",
    "status": "past",
@@ -232,29 +255,6 @@
    "winBy": "5 runs",
    "result": "resulted",
    "url": "https://www.cricketargentina.com/match/27914518"
-  },
-  {
-   "id": 27914503,
-   "start": "2026-11-14T18:04:35.000Z",
-   "status": "past",
-   "competition": "Division 1 - Primera Masculina",
-   "round": "League Matches",
-   "ground": "Hurlingham Club",
-   "overs": 20,
-   "a": {
-    "name": "Belgrano Bears",
-    "logo": "data/img/team-3aaec4b37d5c.webp",
-    "score": "161/7"
-   },
-   "b": {
-    "name": "Hurlingham Club (Div. 2)",
-    "logo": "data/img/team-4985a004330d.webp",
-    "score": "113/9"
-   },
-   "winner": "Belgrano Bears",
-   "winBy": "48 runs",
-   "result": "resulted",
-   "url": "https://www.cricketargentina.com/match/27914503"
   }
  ],
  "news": [
